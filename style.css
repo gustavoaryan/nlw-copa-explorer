@@ -30,7 +30,12 @@ ul {
 }
 
 body {
-  background: #121214 var(--bg) no-repeat top center/cover;
+  background-color: #121214;
+  background-image: var(--bg);
+
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 body * {
@@ -57,6 +62,7 @@ header {
   text-align: center;
 
   background: var(--card-bg-color);
+  /*border-bottom: 2px solid var(--card-color-primary);*/
   border-bottom: 2px solid #f7dd43;
   border-radius: 6px;
 }
@@ -68,7 +74,7 @@ header {
   align-items: center;
 
   padding: 8px 16px;
-  border: 1px solid #338af3;
+  border: 1px solid var(--card-title-border-color);
   border-radius: 6px;
 
   width: fit-content;
@@ -103,7 +109,8 @@ header {
 
 .card ul li + li {
   padding-top: 24px;
-  border-top: 1px solid #323238;
+  /*border-top: 1px solid #323238;*/
+  border-top: 1px solid #184172;
 }
 
 .card ul li strong {
