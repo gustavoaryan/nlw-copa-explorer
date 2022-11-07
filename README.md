@@ -36,7 +36,7 @@ O NLW Copa Explorer foi um projeto inicialmente para informar o calendário de a
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/pQhKdaV2MK61JAyqBVjjwQ/Calend%C3%A1rio-de-Jogos-(Community)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
